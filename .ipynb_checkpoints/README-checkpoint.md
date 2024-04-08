@@ -1,4 +1,3 @@
-
 # Pricing-Fertilizer-take-Rains-into-account  
 
 ### Para o que serve uma previsão de importação de fertilizantes?  
@@ -11,4 +10,4 @@ Quando a quantidade importada é maior do que a previsão, forma-se um viés de 
 
 A previsão é a quantidade normal, acrecida de tendência de longo prazo, sazonalidade e outros fatores como a normalidade ou não das chuvas.  
 
-**Esse projeto visa provar que levar em conta os volumes de chuva aumenta a precisão da previsão de importação**.
+**Esse projeto visa provar através de teste estatístico que levar em conta os volumes de chuva aumenta a precisão da previsão de importação**.
