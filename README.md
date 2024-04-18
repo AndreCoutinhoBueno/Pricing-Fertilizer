@@ -1,4 +1,4 @@
-# Se pode levar em conta as chuvas para precificar os fertilizantes?
+# As chuvas podem ser levadas em conta para precificar os fertilizantes?
 
 ![best_result](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer-take-Rains-into-account/blob/main/best_result.png?raw=true)
 
@@ -6,7 +6,7 @@ O mercado de fertilizantes do Brasil é dependente de produtos importados.
 
 O Brasil lidera amplamente as importações de fertilizantes no mundo
 
-Num mercado competitivo, onde oferta e importação são algumas vezes usados como sinônimos, a cada mês, a direção das empresas do ramo aguardam a divulgação das quantidades de fertilizantes desembarcados,  divulgados pela Receita Federal. Esse número é comparado com uma expectativa ou previsão.
+Mensalmente a direção das empresas do ramo aguardam a divulgação das quantidades de fertilizantes desembarcados,  divulgados pela Receita Federal. Esse número é comparado com uma expectativa ou previsão.
 
 # Expectativa = Previsão
 
