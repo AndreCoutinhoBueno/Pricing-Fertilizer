@@ -1,6 +1,6 @@
 # Se pode levar em conta as chuvas para precificar os fertilizantes?
 
-![best_result](best_results.png)
+![best_result](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer-take-Rains-into-account/blob/main/best_result.png?raw=true)
 
 O mercado de fertilizantes do Brasil é dependente de produtos importados.
 
