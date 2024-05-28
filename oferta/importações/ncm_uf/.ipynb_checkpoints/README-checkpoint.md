@@ -1,0 +1,1 @@
+Nessa pasta somente serão processadas importações agrupadas por NCM e UF.
