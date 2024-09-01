@@ -1,5 +1,6 @@
 # Oferta  
 
-A importação é amplamente maior do que a produção nacional de fertilizantes.  
 
-Nessa fase, vamos nos concentrar nas importações somente.
+A maioria dos fertilizantes ofertados no Brasil são importados.  
+
+Nessa fase atual e inicial, nos concetraremos nas [importações](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).
