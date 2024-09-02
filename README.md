@@ -1,6 +1,6 @@
 # Precifica fertilizantes em estoque no Brasil  
 
-![Pricing]](imagem_baixada.png)
+![Pricing](imagem_baixada.png)
 
 Contrapõe a oferta e a demanda, buscando quantificar vetores que incidem sobre o preço.
 
