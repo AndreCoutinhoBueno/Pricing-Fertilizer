@@ -1,5 +1,6 @@
 # Oferta  
 
+![Oferta e Demanda](imagem_baixada.png)
 
 A maioria dos fertilizantes ofertados no Brasil são importados.  
 
