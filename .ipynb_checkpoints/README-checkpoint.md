@@ -1,8 +1,10 @@
 # Precifica fertilizantes em estoque no Brasil  
 
-![Pricing](imagem_baixada.png)
+![Pricing](pricing.png)
 
 Contrapõe a oferta e a demanda, buscando quantificar os vetores que incidam sobre o preço.
+
+![Indicadores do Mercado - ANDA](imagem_baixada.png)
 
 Busca maior precisão, processando paralelamente dados correlacionados com o consumo de fertilizantes, como a ocorrência de chuvas, ou as exportações de produtos agrícolas, por exemplo.  
 
