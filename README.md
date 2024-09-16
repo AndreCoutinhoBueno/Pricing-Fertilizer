@@ -1,6 +1,6 @@
 # Precifica fertilizantes em estoque no Brasil  
 
-![Pricing](pricing.png)
+[test](/home/andre301267/git/Pricing-Fertilizer/ncm/README.md)
 
 Contrapõe a oferta e a demanda, buscando quantificar os vetores que incidam sobre o preço.
 
