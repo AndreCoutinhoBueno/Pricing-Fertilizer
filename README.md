@@ -7,3 +7,5 @@ Busca maior precisão, processando paralelamente dados correlacionados com o con
 
 [README BD](https://andrecoutinhobueno.github.io/BD/)
 
+[README do folder ncm](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/ncm/README.md)
+
