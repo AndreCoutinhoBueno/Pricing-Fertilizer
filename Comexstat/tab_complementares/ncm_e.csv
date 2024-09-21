@@ -1,0 +1,59 @@
+name,CO_NCM,NO_NCM_POR
+café,69111010,"Conjunto (jogo ou aparelho) para jantar, café ou chá, apresentado em embalagem comum, de porcelana"
+milho,7099011,"Milho doce, para semeadura"
+milho,7099019,"Milho doce, fresco ou refrigerad, exceto para semeadura"
+soja,12081000,Farinha de soja
+milho,23067000,"Tortas e outros resíduos sólidos, do germe de milho"
+milho,23069010,"Tortas, resíduos, etc, de germe de milho"
+café,9011110,"Café não torrado, não descafeinado, em grão"
+café,9011190,"Café não torrado, não descafeinado, exceto em grão"
+café,9011200,"Café não torrado, descafeinado"
+café,9012100,"Café torrado, não descafeinado"
+café,9012200,"Café torrado, descafeinado"
+café,9019000,"Cascas, películas de café e sucedâneos do café"
+milho,9104000,Tomilho e louro
+soja,15071000,"Óleo de soja, em bruto, mesmo degomado"
+soja,15079010,"Óleo de soja, refinado"
+soja,15079011,"Óleo de soja, refinado, em recipientes com capacidade inferior ou igual a 5 litros"
+soja,21031090,"Outros molhos de soja, preparados"
+milho,11042300,"Outros grãos trabalhados (por exemplo, descascados, em pérolas, cortados ou partidos), de milho"
+milho,11081200,Amido de milho
+milho,10051000,Milho para semeadura
+milho,10059010,"Milho em grão, exceto para semeadura"
+milho,10059090,"Milho, exceto em grão"
+milho,11022000,Farinha de milho
+milho,11031300,"Grumos e sêmolas, de milho"
+café,6029083,Mudas de café
+soja,23099050,"Preparações com teor de cloridrato de ractopamina igual ou superior a 2 %, em peso, com suporte de farelo de soja, dos tipos utilizados na alimentação de animais"
+milho,7099911,"Milho doce, frescos ou refrigerados, para semeadura"
+milho,7099919,"Milho doce, frescos ou refrigerados, exceto para semeadura"
+milho,7104000,"Milho doce congelado, não cozidos ou cozidos em água ou vapor, congelados"
+soja,23040010,"Farinhas e pellets, da extração do óleo de soja"
+soja,23040090,"Bagaços e outros resíduos sólidos, da extração do óleo de soja"
+soja,15079019,"Óleo de soja, refinado, em recipientes com capacidade menor que 5 litros"
+soja,15079090,Outros óleos de soja
+milho,23021000,"Sêmeas, farelos e outros resíduos, mesmo em pellets, da peneiração, moagem ou de outros tratamentos de milho"
+milho,20058000,"Milho doce (Zea mays var. saccharata), preparados ou conservados, exceto em vinagre ou em ácido acético, não congelados"
+milho,15152100,"Óleo de milho, em bruto"
+milho,15152900,Outros óleos de milho
+soja,12010010,Soja para semeadura
+soja,12010090,"Outros grãos de soja, mesmo triturados"
+soja,12011000,"Soja, mesmo triturada, para semeadura"
+soja,12019000,"Soja, mesmo triturada, exceto para semeadura"
+café,21011110,"Café solúvel, mesmo descafeinado"
+café,21011190,"Outros extratos, essências e concentrados, de café"
+café,21011200,"Preparações à base de extratos, essências ou concentrados ou à base de café"
+café,21013000,"Chicória torrada e outros sucedâneos torrados do café e respectivos extratos, essências e concentrados"
+soja,21031010,"Molho de soja, preparado, em embalagens imediatas de conteúdo inferior ou igual a 1 kg"
+milho,15152910,"Óleo de milho, refinado, em recipientes com capacidade inferior ou igual a 5 litros"
+milho,15152990,Outros óleos de milho
+SSP,31031020,"Superfosfatos, com teor de pentóxido de fósforo (P2O5) superior a 22 % mas não superior a 45 %, em peso"
+TSP,31031030,"Superfosfatos, com teor de pentóxido de fósforo (P2O5) superior a 45 %, em peso"
+café,85167100,"Aparelhos para preparação de café ou de chá, eletrotérmicos"
+MAP,31054000,"Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)"
+NP,31055900,"Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo"
+NPK,31052000,"Adubos (fertilizantes) minerais ou químicos, que contenham os três elementos fertilizantes: nitrogênio (azoto), fósforo e potássio"
+ureia,31021010,"Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco"
+NAM,31023000,"Nitrato de amônio, mesmo em solução aquosa"
+SSP,31031010,"Superfosfatos, com teor de pentóxido de fósforo (P2O5) não superior a 22 %, em peso"
+soja,35040020,"Proteínas de soja em pó, com teor de proteínas superior ou igual a 90 %, em peso, em base seca"
