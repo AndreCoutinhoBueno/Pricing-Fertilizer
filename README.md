@@ -1,10 +1,9 @@
-Banco de Dados  
+Esse projeto é promovido por [André Coutinho Bueno](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/).
 
-* arquivos originais para servir a todos os projetos e notebooks do autor  
+Precificar envolve predizer váriáveis ligadas a oferta e demanda.
 
-* procedimentos de extração e limpeza sobre os arquivos originais  
+A oferta de fertilizantes no Brasil é amplamente dominada por produto importado.
 
-* arquivos temporários
+A demanda tem seus dados registrados pela ANDA como "entrega ao consumidor final", onde a fonte são as associadas desta entidade.
 
-
-Os arquivos csv são ignorados no github.
+Iremos iniciar esse projeto considerando as [importações](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).
