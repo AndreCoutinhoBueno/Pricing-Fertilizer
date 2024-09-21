@@ -2,8 +2,7 @@ This project is promoted by [André Coutinho Bueno](https://andrecoutinhobueno.g
 
 Pricing involves predicting variables related to 
 
-[supply](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/tree/main/supply) 
-
+[supply](/home/andre301267/git/Pricing-Fertilizer/supply/README.md) 
 
 
 and 
