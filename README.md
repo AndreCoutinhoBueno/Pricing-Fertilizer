@@ -2,9 +2,9 @@ This project is promoted by [André Coutinho Bueno](https://andrecoutinhobueno.g
 
 Pricing involves predicting variables related to 
 
-[supply](~/Pricing-Fertilizer/supply/README.md) 
+[supply](aa) 
 
-
+aa=https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/supply/README.md#:~:text=README.-,md,-temp
 
 and 
 
