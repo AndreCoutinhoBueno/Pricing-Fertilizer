@@ -1,0 +1,1 @@
+Nesta pasta serão guardados todos os arquivos csv.
