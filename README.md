@@ -1,9 +1,8 @@
-Esse projeto é promovido por [André Coutinho Bueno](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/).
+This project is promoted by [André Coutinho Bueno](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/).
 
-Precificar envolve predizer váriáveis ligadas a [oferta](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/README.md) e a [demanda](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/supply/README.md).
+Pricing involves predicting variables related to [supply](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/suplly/README.md) and [demand](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/demand/README.md).
 
 
+The demand has a reliable source of data recorded by ANDA as "delivery to the final consumer," with the source being the member companies of this entity.
 
-A demanda tem boa fonte de dados registrados pela ANDA como "entrega ao consumidor final", sendo a fonte são as empresas associadas desta entidade.
-
-Iremos iniciar esse projeto considerando as [importações](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).
+We will start this project by considering [imports].(https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).
