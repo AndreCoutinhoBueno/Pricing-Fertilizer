@@ -1,1 +1,0 @@
-# Preço para aquisição internacional
