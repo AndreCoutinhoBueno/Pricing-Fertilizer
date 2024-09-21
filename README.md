@@ -4,7 +4,7 @@ Pricing involves predicting variables related to
 
 [supply](aa) 
 
-aa=https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/supply/README.md#:~:text=README.-,md,-temp
+aa=https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/demand/README.md
 
 and 
 
