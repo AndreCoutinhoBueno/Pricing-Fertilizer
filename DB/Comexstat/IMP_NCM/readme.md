@@ -1,0 +1,1 @@
+Para esse projeto, o interesse esta sobre a base de dados denominada IMP_COMPLETA.zip, que contém histórico mensal das importações detalhadas por produto (código NCM), Unidade Federativa importadora, ano, mês, país de origem, quilograma líquido, valor dólar FOB (US$) e outras.
