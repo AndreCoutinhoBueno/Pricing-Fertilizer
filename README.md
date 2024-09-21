@@ -5,4 +5,4 @@ Pricing involves predicting variables related to [supply](https://github.com/And
 
 The demand has a reliable source of data recorded by ANDA as "delivery to the final consumer," with the source being the member companies of this entity.
 
-We will start this project by considering [imports].(https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).
+We will start this project by considering [imports](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md).

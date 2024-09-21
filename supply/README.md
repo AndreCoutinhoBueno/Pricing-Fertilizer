@@ -1,10 +1,10 @@
-# Oferta  
+# Supply
 
-A oferta de fertilizantes no Brasil é amplamente dominada por produto importado.
+The supply of fertilizers in Brazil is largely dominated by imported products.
 
-Nas das próximas fases deste projeto serão integrados dados de produção, declarados pelas proóprias indústrias do Brasil, relatadas pela ANDA.
+In the next phases of this project, production data declared by Brazilian industries and reported by ANDA will be integrated.
 
-No momento, focaremos apenas nas [importações](https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md). 
+For now, we will focus only on [imports].(https://github.com/AndreCoutinhoBueno/Pricing-Fertilizer/blob/main/oferta/importa%C3%A7%C3%B5es/README.md). 
 
 
 [back](https://andrecoutinhobueno.github.io/Pricing-Fertilizer/)
