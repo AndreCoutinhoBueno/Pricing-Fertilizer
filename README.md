@@ -1,6 +1,6 @@
 Esse projeto é promovido por [André Coutinho Bueno](https://andrecoutinhobueno.github.io/AndreCoutinhoBueno/).
 
-Precificar envolve predizer váriáveis ligadas a oferta e demanda.
+Precificar envolve predizer váriáveis ligadas a oferta e a demanda.
 
 A oferta de fertilizantes no Brasil é amplamente dominada por produto importado.
 
