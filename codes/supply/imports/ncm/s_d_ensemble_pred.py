@@ -1,12 +1,13 @@
+import pandas as pd
+
+def predict_sklearn(model,X_train,y_train,X_pred):
+    global predict_sklearn
+    model.fit(X_train,y_train)
+    pred=model.predict(X_pred)
+    return pred
+
 def s_d_ensemble_pred(model_c,model_r,train,X_pred):
     
-    import pandas as pd
-    
-    def predict_sklearn(model,X_train,y_train,X_pred):
-        model.fit(X_train,y_train)
-        pred=model.predict(X_pred)
-        return pred
-        
     # Class
     train=train.assign(oc=1)
     train.loc[train.kg==0,'oc']=0
